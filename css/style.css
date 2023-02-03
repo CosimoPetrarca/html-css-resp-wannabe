@@ -134,3 +134,16 @@ img {
         width: 100%;
     }
 }
+
+/* formato cellulare */
+
+@media screen and (max-width:480px ) {
+    .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+    
+
