@@ -143,7 +143,31 @@ img {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-      }
     }
+
+    .lessons .col {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .steps .col {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        padding: 30px;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+        padding: 30px;
+    }
+
+
+
+}
+
     
 
